@@ -1,29 +1,40 @@
-        body {
-            margin: 0;
-            font-family: 'Slabo 27px', serif;
-        }
-        
-        h1 {
-            font-size: 55px;
-        }
-        
-        h2 {
-            font-size: 45px;
-        }
-        
-        .blue-highlight {
-            color: blue;
-        }
-        
-        .link-button {
-            text-decoration: none;
-            background-image: linear-gradient(45deg, lightsalmon, tomato);
-            padding: 10px 20px;
-            border-radius: 5px;
-            color: white;
-            font-weight: 700;
-        }
-        
-        .half-width img {
-            width: 30%;
-        }
+                                  body {
+                                      margin: 0;
+                                      font-family: 'Slabo 27px', serif;
+                                  }
+                                  
+                                  h1 {
+                                      font-size: 50px;
+                                  }
+                                  
+                                  h2 {
+                                      font-size: 40px;
+                                  }
+                                  
+                                  .blue-highlight {
+                                      color: blue;
+                                  }
+                                  
+                                  .half-width {
+                                      width: 40%;
+                                      float: left;
+                                      margin-left: 5%;
+                                      padding-left: 2%;
+                                  }
+                                  
+                                  .link-button {
+                                      text-decoration: none;
+                                      background-image: linear-gradient(45deg, lightsalmon, tomato);
+                                      padding: 10px 20px;
+                                      border-radius: 5px;
+                                      color: white;
+                                      font-weight: 700;
+                                  }
+                                  
+                                  .half-width img {
+                                      width: 100%
+                                  }
+                                  
+                                  .orange-highlight {
+                                      color: crimson;
+                                  }
