@@ -1,87 +1,118 @@
-                                  body {
-                                      margin: 0;
-                                      font-family: 'Slabo 27px', serif;
-                                  }
-                                  
-                                  h1 {
-                                      font-size: 50px;
-                                  }
-                                  
-                                  h2 {
-                                      font-size: 40px;
-                                  }
-                                  
-                                  .blue-highlight {
-                                      color: blue;
-                                  }
-                                  
-                                  .half-width {
-                                      width: 40%;
-                                      float: left;
-                                      margin-left: 5%;
-                                      padding-left: 2%;
-                                  }
-                                  
-                                  .link-button {
-                                      text-decoration: none;
-                                      background-image: linear-gradient(45deg, lightsalmon, tomato);
-                                      padding: 10px 20px;
-                                      border-radius: 5px;
-                                      color: white;
-                                      font-weight: 700;
-                                  }
-                                  
-                                  .half-width img {
-                                      width: 75%
-                                  }
-                                  
-                                  .orange-highlight {
-                                      color: crimson;
-                                  }
-                                  
-                                  .topnav {
-                                      overflow: hidden;
-                                      background-color: white;
-                                  }
-                                  
-                                  .topnav a {
-                                      float: right;
-                                      color: black;
-                                      text-align: center;
-                                      padding: 14px 16px;
-                                      text-decoration: none;
-                                      font-size: 17px;
-                                  }
-                                  
-                                  .slide-area {
-                                      width: 25%;
-                                      float: left;
-                                      margin-left: 5%;
-                                      padding-left: 2%;
-                                      box-shadow: 10px 10px 40px white;
-                                      border-radius: 5px;
-                                      height: 100%;
-                                  }
-                                  
-                                  .slide-area h2 {
-                                      color: violet;
-                                      text-align: center;
-                                  }
-                                  
-                                  .slide-area p {
-                                      color: teal;
-                                      text-align: center;
-                                  }
-                                  
-                                  .slide-area a {
-                                      text-decoration: none;
-                                  }
-                                  
-                                  .slide-area img {
-                                      width: 100%;
-                                  }
-                                  
-                                  #flopday {
-                                      height: 500px;
-                                      background-color: gold;
-                                  }
+                                              body {
+                                                  margin: 0;
+                                                  font-family: 'Slabo 27px', serif;
+                                              }
+                                              
+                                              h1 {
+                                                  font-size: 50px;
+                                              }
+                                              
+                                              h2 {
+                                                  font-size: 15px;
+                                              }
+                                              
+                                              .blue-highlight {
+                                                  color: blue;
+                                              }
+                                              
+                                              .half-width {
+                                                  width: 40%;
+                                                  float: left;
+                                                  margin-left: 5%;
+                                                  padding-left: 2%;
+                                              }
+                                              
+                                              .link-button {
+                                                  text-decoration: none;
+                                                  background-image: linear-gradient(45deg, lightsalmon, tomato);
+                                                  padding: 10px 20px;
+                                                  border-radius: 5px;
+                                                  color: white;
+                                                  font-weight: 700;
+                                              }
+                                              
+                                              .half-width img {
+                                                  width: 75%
+                                              }
+                                              
+                                              .orange-highlight {
+                                                  color: crimson;
+                                              }
+                                              
+                                              .topnav {
+                                                  overflow: hidden;
+                                                  background-color: white;
+                                              }
+                                              
+                                              .topnav a {
+                                                  float: right;
+                                                  color: black;
+                                                  text-align: center;
+                                                  padding: 14px 16px;
+                                                  text-decoration: none;
+                                                  font-size: 15px;
+                                              }
+                                              
+                                              .project-desgine {
+                                                  width: 20%;
+                                                  float: left;
+                                                  margin-left: 5%;
+                                                  padding-left: 2%;
+                                                  box-shadow: 10px 10px 40px gray;
+                                                  border-radius: 5px;
+                                                  height: 100%;
+                                              }
+                                              
+                                              .project-desgine h3 {
+                                                  color: black;
+                                                  font-weight: 700;
+                                                  /* text-align: center; */
+                                              }
+                                              
+                                              .project-desgine p {
+                                                  color: black;
+                                                  /* font-weight: 700; */
+                                                  /* text-align: center; */
+                                              }
+                                              
+                                              .project-desgine a {
+                                                  text-decoration: none;
+                                              }
+                                              
+                                              .project-desgine img {
+                                                  width: 100%;
+                                              }
+                                              
+                                              #project {
+                                                  height: 600px;
+                                                  background-color: rgb(248, 249, 252);
+                                                  display: block;
+                                                  clear: both;
+                                                  padding-top: 60px;
+                                              }
+                                              
+                                              #inquiry {
+                                                  width: 50%;
+                                                  background-size: 100%;
+                                                  background-position: center;
+                                                  /* display: block; */
+                                                  margin-left: auto;
+                                                  margin-right: auto;
+                                                  /* text-align: center; */
+                                                  background-repeat: no-repeat;
+                                                  height: 300px;
+                                                  background-image: url(images/Group_33094_1.png);
+                                              }
+                                              
+                                              .inquiry-desgine {
+                                                  padding-left: 70px;
+                                                  padding-top: 104px;
+                                                  font-weight: 700;
+                                                  float: left;
+                                              }
+                                              
+                                              .inquiry-desgine .head-desgine {
+                                                  color: white;
+                                                  font-weight: bold;
+                                                  font-size: 30px
+                                              }
